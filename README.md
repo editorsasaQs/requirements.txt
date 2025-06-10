@@ -1,5 +1,5 @@
 flask
-pytube
 openai-whisper
+pytube
 moviepy
 dropbox
